@@ -46,9 +46,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maninae&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb" height="160" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maninae&layout=compact&hide_border=true&title_color=2563eb&langs_count=8" height="160" alt="Top languages"/>
-
 <p>
   <a href="https://maninae.github.io/"><img src="https://img.shields.io/badge/-maninae.github.io-2563eb?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
   <a href="https://github.com/Maninae"><img src="https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
