@@ -2,17 +2,17 @@
 
 # Hi, I'm Owen 👋
 
-✏️ I build **interactive explainers** and **playful tools**: things that make a hard idea click by letting you *touch* it.
+🔬 Computer vision & ML, and a love of **tech + education**: I turn hard ideas into **interactive explainers** and **data visualizations** you can *touch*.
 
-🤖 ML engineer &nbsp;·&nbsp; 🌉 Bay Area &nbsp;·&nbsp; mostly hand-written HTML/CSS/JS, no build step
+🧠 CVML &nbsp;·&nbsp; 🎓 tech + education &nbsp;·&nbsp; 📊 interactive explainers & data viz &nbsp;·&nbsp; 🌉 Bay Area
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
-  <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
 </p>
 
 <sub>⭐ = start here</sub>
@@ -51,6 +51,6 @@
   <a href="https://github.com/Maninae"><img src="https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
 </p>
 
-<sub>Most projects are hand-built, no framework. Open the repo and read the source.</sub>
+<sub>Everything here is built to be poked at. Open a link and play.</sub>
 
 </div>
