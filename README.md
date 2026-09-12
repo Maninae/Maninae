@@ -23,18 +23,23 @@
 
 - ⭐ 🔌 **[Grid Atlas](https://maninae.github.io/grid-atlas/)** &nbsp;·&nbsp; type your ZIP and meet your electric grid: fuel mix, CO₂/kWh, prices, plants, 25 years of change
 - ⚡ **[Electric Vehicle Adoption](https://maninae.github.io/electric-vehicle-adoption/)** &nbsp;·&nbsp; how the world is going electric, across US states, every country, and 200 years of history
+- 🗺️ **[Real-time Travel in the Bay](https://maninae.github.io/real-time-travel-in-the-bay/)** &nbsp;·&nbsp; the Bay Area redrawn so distance means travel time: a time-space cartogram
+- 🔢 **[After the Decimal](https://maninae.github.io/llm_versioning_infographic/)** &nbsp;·&nbsp; how AI labs pick model version numbers, as an interactive data viz
 - ⭐ ⚗️ **[Valence](https://maninae.github.io/valence/)** &nbsp;·&nbsp; chemistry from first principles: orbitals, the filling order, the periodic table, bonds
 - 🌳 **[Solidified Sky](https://maninae.github.io/solidified-sky/)** &nbsp;·&nbsp; a tree is made of air: a code-drawn photosynthesis journey you travel through
 - ⭐ 🌫️ **[Diffusion from Scratch](https://maninae.github.io/diffusion-from-scratch/)** &nbsp;·&nbsp; how image generation actually works, with interactive diagrams and the real math
 - 🧠 **[From Attention to Agents](https://maninae.github.io/from-attention-to-agents/)** &nbsp;·&nbsp; the arc of modern AI, from the 2017 Transformer to 2026 agents, as a scrollable course
 - 📈 **[Graph Playground](https://maninae.github.io/graph-playground/)** &nbsp;·&nbsp; feel how a graph moves when you tweak its equation
 - 💧 **[Follow the Drop](https://maninae.github.io/follow-the-drop/)** &nbsp;·&nbsp; a choose-your-path adventure through the water cycle
+- 🎲 **[CS234 Companion](https://maninae.github.io/cs234/)** &nbsp;·&nbsp; a learning companion site for Stanford's reinforcement learning course
 
 ## 🎮 Playful
 
 - ⭐ 🐦 **[Birds Fly View](https://maninae.github.io/birds-fly-view/)** &nbsp;·&nbsp; become a bird and fly your real neighborhood at golden hour, streamed live from OpenStreetMap
 - 🕹️ **[Packet Run](https://maninae.github.io/packet-run/)** &nbsp;·&nbsp; a roguelite for ages 9-12 where real networking is the game mechanic
 - 🌀 **[Hole Foods](https://maninae.github.io/hole-foods/)** &nbsp;·&nbsp; eat everything, grow forever: an endless fractal emoji world
+- 👶 **[Motor Babble](https://maninae.github.io/motor-babble/)** &nbsp;·&nbsp; you are six weeks old and the 26 letter keys are wired to your muscles; also a Gymnasium RL sandbox
+- 🐔 **[Coop View](https://github.com/Maninae/coop-view)** &nbsp;·&nbsp; a live 3D backyard with two hens, real satellite ground, and a sky on the actual clock (password-gated)
 
 ## 🤖 AI & tools
 
