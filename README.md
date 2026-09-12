@@ -39,7 +39,6 @@
 - 🕹️ **[Packet Run](https://maninae.github.io/packet-run/)** &nbsp;·&nbsp; a roguelite for ages 9-12 where real networking is the game mechanic
 - 🌀 **[Hole Foods](https://maninae.github.io/hole-foods/)** &nbsp;·&nbsp; eat everything, grow forever: an endless fractal emoji world
 - 👶 **[Motor Babble](https://maninae.github.io/motor-babble/)** &nbsp;·&nbsp; you are six weeks old and the 26 letter keys are wired to your muscles; also a Gymnasium RL sandbox
-- 🐔 **[Coop View](https://github.com/Maninae/coop-view)** &nbsp;·&nbsp; a live 3D backyard with two hens, real satellite ground, and a sky on the actual clock (password-gated)
 
 ## 🤖 AI & tools
 
