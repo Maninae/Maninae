@@ -21,6 +21,7 @@
 
 ## 🧪 Interactive explainers
 
+- 💺 **[Please Remain Seated](https://maninae.github.io/please-remain-seated/)** &nbsp;·&nbsp; why getting off a plane takes forever: race exit orders, then rank every airline's real 2026 boarding procedure
 - ⭐ 🔌 **[Grid Atlas](https://maninae.github.io/grid-atlas/)** &nbsp;·&nbsp; type your ZIP and meet your electric grid: fuel mix, CO₂/kWh, prices, plants, 25 years of change
 - ⚡ **[Electric Vehicle Adoption](https://maninae.github.io/electric-vehicle-adoption/)** &nbsp;·&nbsp; how the world is going electric, across US states, every country, and 200 years of history
 - 🗺️ **[Real-time Travel in the Bay](https://maninae.github.io/real-time-travel-in-the-bay/)** &nbsp;·&nbsp; the Bay Area redrawn so distance means travel time: a time-space cartogram
