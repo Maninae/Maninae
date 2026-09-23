@@ -2,9 +2,7 @@
 
 # Hi, I'm Owen 👋
 
-🔬 Computer vision & ML, and a love of **tech + education**: I turn hard ideas into **interactive explainers** and **data visualizations** you can *touch*.
-
-🌉 Bay Area
+🔬 Computer vision & ML, and a love of **tech + ML + education**.  
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -20,7 +18,7 @@
 </div>
 
 ## 🧪 Interactive explainers
-
+Turning hard ideas into **interactive explainers** and **data visualizations** you can touch.
 - 💺 **[Please Remain Seated](https://maninae.github.io/please-remain-seated/)** &nbsp;·&nbsp; why getting off a plane takes forever: race exit orders, then rank every airline's real 2026 boarding procedure
 - ⭐ 🔌 **[Grid Atlas](https://maninae.github.io/grid-atlas/)** &nbsp;·&nbsp; type your ZIP and meet your electric grid: fuel mix, CO₂/kWh, prices, plants, 25 years of change
 - ⚡ **[Electric Vehicle Adoption](https://maninae.github.io/electric-vehicle-adoption/)** &nbsp;·&nbsp; how the world is going electric, across US states, every country, and 200 years of history
@@ -36,14 +34,14 @@
 - 🦾 **[CS224R Notes](https://maninae.github.io/cs224r/)** &nbsp;·&nbsp; interactive lecture notes for Stanford's deep reinforcement learning course
 
 ## 🎮 Playful
-
+Ideas that materialized into simple games.
 - ⭐ 🐦 **[Birds Fly View](https://maninae.github.io/birds-fly-view/)** &nbsp;·&nbsp; become a bird and fly your real neighborhood at golden hour, streamed live from OpenStreetMap
 - 🕹️ **[Packet Run](https://maninae.github.io/packet-run/)** &nbsp;·&nbsp; a roguelite for ages 9-12 where real networking is the game mechanic
 - 🌀 **[Hole Foods](https://maninae.github.io/hole-foods/)** &nbsp;·&nbsp; eat everything, grow forever: an endless fractal emoji world
 - 👶 **[Motor Babble](https://maninae.github.io/motor-babble/)** &nbsp;·&nbsp; you are six weeks old and the 26 letter keys are wired to your muscles; also a Gymnasium RL sandbox
 
 ## 🤖 AI & tools
-
+CLI entrypoints, infra, experimental demos, and connectors for daily applications.
 - 🧙 **[Roblox Rig Wizard](https://github.com/Maninae/roblox-rig-wizard)** &nbsp;·&nbsp; gate, rig, and export Roblox R15 avatars built in Blender, with Claude doing the modeling
 - 🎬 **[Roblox Studio CLI](https://github.com/Maninae/roblox-studio-cli)** &nbsp;·&nbsp; run Luau and capture the viewport in a live Roblox Studio, from a shell
 - 📰 **[Claude Reads the News](https://aireadsthenews.co/)** &nbsp;·&nbsp; a daily reflection by Claude on the latest events
