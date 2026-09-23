@@ -4,7 +4,7 @@
 
 🔬 Computer vision & ML, and a love of **tech + education**: I turn hard ideas into **interactive explainers** and **data visualizations** you can *touch*.
 
-🧠 CVML &nbsp;·&nbsp; 🎓 tech + education &nbsp;·&nbsp; 📊 interactive explainers & data viz &nbsp;·&nbsp; 🌉 Bay Area
+🌉 Bay Area
 
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -44,7 +44,7 @@
 ## 🤖 AI & tools
 
 - 🧙 **[Roblox Rig Wizard](https://github.com/Maninae/roblox-rig-wizard)** &nbsp;·&nbsp; gate, rig, and export Roblox R15 avatars built in Blender, with Claude doing the modeling
-- 📰 **[Claude Reads the News](http://aireadsthenews.co/)** &nbsp;·&nbsp; a daily reflection by Claude on the latest events
+- 📰 **[Claude Reads the News](https://aireadsthenews.co/)** &nbsp;·&nbsp; a daily reflection by Claude on the latest events
 - ☎️ **[Claude Landline](https://github.com/Maninae/claude-landline)** &nbsp;·&nbsp; a macOS Telegram bridge to a persistent Claude Code agent: voice notes, documents, streaming replies, always on
 - 💰 **[Monarch Money CLI](https://github.com/Maninae/monarch-money-cli)** &nbsp;·&nbsp; full API coverage for Monarch Money, for agents and humans
 
