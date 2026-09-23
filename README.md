@@ -33,6 +33,7 @@
 - 📈 **[Graph Playground](https://maninae.github.io/graph-playground/)** &nbsp;·&nbsp; feel how a graph moves when you tweak its equation
 - 💧 **[Follow the Drop](https://maninae.github.io/follow-the-drop/)** &nbsp;·&nbsp; a choose-your-path adventure through the water cycle
 - 🎲 **[CS234 Companion](https://maninae.github.io/cs234/)** &nbsp;·&nbsp; a learning companion site for Stanford's reinforcement learning course
+- 🦾 **[CS224R Notes](https://maninae.github.io/cs224r/)** &nbsp;·&nbsp; interactive lecture notes for Stanford's deep reinforcement learning course
 
 ## 🎮 Playful
 
@@ -44,6 +45,7 @@
 ## 🤖 AI & tools
 
 - 🧙 **[Roblox Rig Wizard](https://github.com/Maninae/roblox-rig-wizard)** &nbsp;·&nbsp; gate, rig, and export Roblox R15 avatars built in Blender, with Claude doing the modeling
+- 🎬 **[Roblox Studio CLI](https://github.com/Maninae/roblox-studio-cli)** &nbsp;·&nbsp; run Luau and capture the viewport in a live Roblox Studio, from a shell
 - 📰 **[Claude Reads the News](https://aireadsthenews.co/)** &nbsp;·&nbsp; a daily reflection by Claude on the latest events
 - ☎️ **[Claude Landline](https://github.com/Maninae/claude-landline)** &nbsp;·&nbsp; a macOS Telegram bridge to a persistent Claude Code agent: voice notes, documents, streaming replies, always on
 - 💰 **[Monarch Money CLI](https://github.com/Maninae/monarch-money-cli)** &nbsp;·&nbsp; full API coverage for Monarch Money, for agents and humans
